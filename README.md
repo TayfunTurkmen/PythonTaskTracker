@@ -20,7 +20,7 @@ Task Tracker is a command-line interface (CLI) application for managing and trac
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/task-tracker-cli.git
+    git clone https://github.com/TayfunTurkmen/task-tracker-cli.git
     cd task-tracker-cli
     ```
 
